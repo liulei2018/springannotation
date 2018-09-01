@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.fang.bigdata'
+group 'com.ll'
 version '1.0.0'
 
 sourceCompatibility = 1.8
